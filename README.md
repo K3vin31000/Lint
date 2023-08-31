@@ -20,9 +20,7 @@ Entre sus características se encuentran:
 
 ### Descarga
 
-MEGA:
-ONEDRIVE:
-DRIVE:
+DRIVE: https://drive.google.com/drive/folders/1M4Vjs1a08lSvNtGh952-XDWS-8lDYZAv?usp=sharing
 
 ## Autor
 
