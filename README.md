@@ -9,7 +9,7 @@ Se ha diseñado LINT con el propósito de guiar a los usuarios primerizos en el 
 Entre sus características se encuentran:
 * .OVA de 8.4GB
 * Sistema operativo Ubuntu 22.10
-*- User: Lint, Pass: lint
+* User: Lint, Pass: lint
 * Menú sencillo e intuitivo
 * 20 herramientas OSINT instaladas y categorizadas
 * Más de 180 marcadores web categorizados
