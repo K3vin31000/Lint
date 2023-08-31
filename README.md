@@ -20,7 +20,8 @@ Entre sus características se encuentran:
 
 ### Descarga
 
-DRIVE: https://drive.google.com/drive/folders/1M4Vjs1a08lSvNtGh952-XDWS-8lDYZAv?usp=sharing
+* DRIVE: https://drive.google.com/drive/folders/1M4Vjs1a08lSvNtGh952-XDWS-8lDYZAv?usp=sharing
+* MEGA: https://mega.nz/file/W5wCGLrJ#JrTfzr_ANcWDPD38_gmmsRhy5KVIgzUzXGlWF0JZy4c
 
 ## Autor
 
